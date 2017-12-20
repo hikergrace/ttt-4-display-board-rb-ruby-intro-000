@@ -22,4 +22,4 @@ def display_board(board1)
   puts "   |   |   "
 end
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
-board = [" ", " X ", " ", " ", " ", " ", " ", " ", " "]
+
