@@ -15,11 +15,10 @@ def display_board(board)
   puts "   |   |   "
 end
 def display_board(board1)
-  puts "   | #{board[1]}  |   "
+  puts "   |   |  #{board[1]}    "
   puts "-----------"
   puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
 end
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
-
